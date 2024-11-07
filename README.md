@@ -7,7 +7,6 @@ git clone https://mousegames/asciiGameDevC
 ### github cli
 ```
 gh repo clone mousegames/asciiGameDevC
-
 ```
 
 ## getting started
