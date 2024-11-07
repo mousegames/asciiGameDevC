@@ -15,7 +15,7 @@ typedef struct
 ### example
 ```
 MovableChar player = {'@', 0, 0, ""};
-```1AMamouse
+```
 ## draw
 - draws 4x16 screen
 - no args
@@ -45,7 +45,7 @@ void update(MovableChar charactar)
 - clears screen
 - no args
 ```
-{
+void clear(char fill){
   for (int i = 0; i < 4; i++)
   {
     for (int j = 0; j < 16; j++)
