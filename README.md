@@ -63,6 +63,5 @@ gcc path/to/game.c path/to/asciiiGameDev.c -o path/to/game.out
 ```
 - mac
 ```
-gcc path/to/game.c path/to/asciiiGameDev.c -o path/to/game.out
+clang path/to/game.c path/to/asciiiGameDev.c -o path/to/game.out
 ```
-not to be confused with asciiGameDev
