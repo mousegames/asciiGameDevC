@@ -56,8 +56,8 @@ gcc path\to\game.c path\to\aciiGameDev.c -o path\to\game.exe
 ```
 gcc path/to/game.c path/to/asciiiGameDev.c -o path/to/game.out
 ```
-not to be confused with asciiGameDev
 - mac
 ```
 gcc path/to/game.c path/to/asciiiGameDev.c -o path/to/game.out
 ```
+not to be confused with asciiGameDev
